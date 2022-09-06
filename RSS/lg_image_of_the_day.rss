@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Image of the Day</title>
+ <description>The latest NASA &quot;Image of the Day&quot; image.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" />
+ <language>en-us</language>
+ <managingEditor>brian.dunbar@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+ <item> <title>Hubble Peers at Celestial Cloudscape</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2022/hubble-peers-at-celestial-cloudscape</link>
+ <description>This celestial cloudscape from the NASA/ESA Hubble Space Telescope captures the colorful region in the Orion Nebula surrounding the Herbig-Haro object HH 505.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_hh505_potw2232a.jpg" length="4815225" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2022/hubble-peers-at-celestial-cloudscape</guid>
+ <pubDate>Fri, 12 Aug 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Artemis I Moonikin Campos Inspection and Install</title>
+ <link>http://www.nasa.gov/image-feature/artemis-i-moonikin-campos-inspection-and-install</link>
+ <description>Artemis I Moonikin Campos Inspection and Install</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ksc-20211109-ph-jbs01_0151_orig.jpg" length="27998913" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/artemis-i-moonikin-campos-inspection-and-install</guid>
+ <pubDate>Thu, 11 Aug 2022 10:17 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA’s B377SGT Super Guppy Turbine Cargo Airplane lands at Moffett Field at NASA Ames</title>
+ <link>http://www.nasa.gov/image-feature/nasa-s-b377sgt-super-guppy-turbine-cargo-airplane-lands-at-moffett-field-at-nasa-ames</link>
+ <description>In this picture from 2016, our Super Guppy, a specialized aircraft with a unique hinged nose, lands at Moffett Field at NASA Ames.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/super_guppy_acd16-0002-009_orig.jpg" length="2922367" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasa-s-b377sgt-super-guppy-turbine-cargo-airplane-lands-at-moffett-field-at-nasa-ames</guid>
+ <pubDate>Wed, 10 Aug 2022 10:09 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Moon Mosaic</title>
+ <link>http://www.nasa.gov/image-feature/moon-mosaic</link>
+ <description>This Moon-mosaic is comprised of 1,231 images taken by the Lunar Reconnaissance Orbiter&#039;s (LRO) Narrow-Angle Camera (NAC) in the summer of 2018.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/moon_mosaic.png" length="8114519" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/moon-mosaic</guid>
+ <pubDate>Mon, 08 Aug 2022 10:46 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Curiosity&#039;s Dusty Selfie</title>
+ <link>http://www.nasa.gov/image-feature/curiositys-dusty-selfie</link>
+ <description>Since August 2012, Curiosity has been exploring 3-mile-high Mt. Sharp in Gale Crater. The rover has climbed more than 2,000 feet (612 meters), reaching progressively younger rocks that serve as a record on how Mars has evolved from a wet, habitable planet to a cold desert environment.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia22486_orig.png" length="29478350" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/curiositys-dusty-selfie</guid>
+ <pubDate>Fri, 05 Aug 2022 10:09 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Gazes at a Star-Studded Skyfield</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2022/hubble-gazes-at-a-star-studded-skyfield</link>
+ <description>This star-studded image from the NASA/ESA Hubble Space Telescope shows the heart of the globular cluster NGC 6638 in the constellation Sagittarius.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_ngc6638_potw2231a.jpg" length="3514326" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2022/hubble-gazes-at-a-star-studded-skyfield</guid>
+ <pubDate>Fri, 05 Aug 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Ice Stars</title>
+ <link>http://www.nasa.gov/image-feature/ice-stars</link>
+ <description>Like distant galaxies amid clouds of interstellar dust, chunks of sea ice drift through graceful swirls of grease ice in the frigid waters of Foxe Basin near Baffin Island in the Canadian Arctic.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/gsfc_20171208_archive_e001932_orig.jpg" length="15185752" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/ice-stars</guid>
+ <pubDate>Thu, 04 Aug 2022 10:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Wildflowers in Bloom at Kennedy Space Center</title>
+ <link>http://www.nasa.gov/image-feature/wildflowers-in-bloom-at-kennedy-space-center</link>
+ <description>With wildflowers surrounding the view, NASA’s Space Launch System Moon rocket – carried atop the crawler-transporter 2 – arrives at Launch Pad 39B at the agency’s Kennedy Space Center in Florida on June 6, 2022.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/52127203801_0ce3bc8eb6_6k.jpg" length="6011536" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/wildflowers-in-bloom-at-kennedy-space-center</guid>
+ <pubDate>Wed, 03 Aug 2022 10:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Webb Captures Stellar Gymnastics in The Cartwheel Galaxy</title>
+ <link>http://www.nasa.gov/feature/goddard/2022/webb-captures-stellar-gymnastics-in-the-cartwheel-galaxy</link>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/stsci-01g8jzq6gwxhex15pyy60wdrsk.png" length="5769882" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/goddard/2022/webb-captures-stellar-gymnastics-in-the-cartwheel-galaxy</guid>
+ <pubDate>Tue, 02 Aug 2022 10:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA Pays Tribute to Nichelle Nichols</title>
+ <link>http://www.nasa.gov/image-feature/nasa-pays-tribute-to-nichelle-nichols</link>
+ <description>NASA celebrates the life of Nichelle Nichols, Star Trek actor, trailblazer, and role model, who symbolized to so many what was possible. She partnered with us to recruit some of the first women and minority astronauts, and inspired generations to reach for the stars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/6942002721_9de930e118_3k.jpg" length="1227985" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasa-pays-tribute-to-nichelle-nichols</guid>
+ <pubDate>Mon, 01 Aug 2022 09:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Zeta Ophiuchi: A Star With a Complicated Past</title>
+ <link>http://www.nasa.gov/image-feature/zeta-ophiuchi-a-star-with-a-complicated-past</link>
+ <description>Zeta Ophiuchi is a star with a complicated past, having likely been ejected from its birthplace by a powerful stellar explosion. A new look by NASA&#039;s Chandra X-ray Observatory helps tell more of the story of this runaway star.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/zetaoph.jpg" length="9210287" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/zeta-ophiuchi-a-star-with-a-complicated-past</guid>
+ <pubDate>Fri, 29 Jul 2022 10:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Vortices Near Jupiter’s North Pole</title>
+ <link>http://www.nasa.gov/image-feature/vortices-near-jupiter-s-north-pole</link>
+ <description>As NASA’s Juno mission completed its 43rd close flyby of Jupiter on July 5, 2022, its JunoCam instrument captured this striking view of vortices — hurricane-like spiral wind patterns — near the planet’s north pole.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia25017-1041.jpg" length="386342" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/vortices-near-jupiter-s-north-pole</guid>
+ <pubDate>Thu, 28 Jul 2022 10:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Preparing for the Next Generation of Flight</title>
+ <link>http://www.nasa.gov/image-feature/preparing-for-the-next-generation-of-flight</link>
+ <description>Before NASA’s quiet supersonic X-59 aircraft takes to the skies, plenty of testing happens to ensure a safe first flight.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/p22-011-147-web.jpg" length="682491" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/preparing-for-the-next-generation-of-flight</guid>
+ <pubDate>Wed, 27 Jul 2022 09:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Heading into (Orbital) Sunrise</title>
+ <link>http://www.nasa.gov/image-feature/heading-into-orbital-sunrise</link>
+ <description>The crew doesn&#039;t just snap pretty pictures; the research aboard the station benefits humanity in numerous ways.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss067e189024.jpeg" length="933106" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/heading-into-orbital-sunrise</guid>
+ <pubDate>Tue, 26 Jul 2022 07:19 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Blue Ripples on a Red Planet</title>
+ <link>http://www.nasa.gov/image-feature/blue-ripples-on-a-red-planet</link>
+ <description>This image shows a variety of wind-related features on the Red Planet near the center of Gamboa Crater.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia25450.jpeg" length="963180" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/blue-ripples-on-a-red-planet</guid>
+ <pubDate>Mon, 25 Jul 2022 09:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>50 Years of Landsat</title>
+ <link>http://www.nasa.gov/image-feature/50-years-of-landsat</link>
+ <description>We&#039;re celebrating 50 years of Landsat.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/lc09_l1tp_013042_20220118_b432_bahamas1x1.jpeg" length="3885020" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/50-years-of-landsat</guid>
+ <pubDate>Fri, 22 Jul 2022 08:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>It&#039;s CERTAIN</title>
+ <link>http://www.nasa.gov/image-feature/its-certain</link>
+ <description>HDV is developing the necessary systems to enable urban drone flights that travel beyond visual sight.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/certain_altax_pitch_093021.jpeg" length="505655" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/its-certain</guid>
+ <pubDate>Thu, 21 Jul 2022 08:19 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Apollo 11 Crew Trains for Excursion on the Sea of Tranquility</title>
+ <link>http://www.nasa.gov/image-feature/apollo-11-crew-trains-for-excursion-on-the-sea-of-tranquility</link>
+ <description>The Apollo 11 crew simulates deploying and using lunar tools on the surface of the Moon during a training exercise on April 22, 1969.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/9460197354_907d525c54_o.jpeg" length="7282964" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/apollo-11-crew-trains-for-excursion-on-the-sea-of-tranquility</guid>
+ <pubDate>Tue, 19 Jul 2022 13:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>A Supernova&#039;s Shockwaves</title>
+ <link>http://www.nasa.gov/image-feature/a-supernovas-shockwaves</link>
+ <description>Supernovas are the explosive deaths of the universe&#039;s most massive stars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/52149057859_75dc5a8e6b_o.jpeg" length="1036500" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/a-supernovas-shockwaves</guid>
+ <pubDate>Tue, 19 Jul 2022 09:16 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>A View from Above: Zero Gravity Facility Circa 1966</title>
+ <link>http://www.nasa.gov/image-feature/a-view-from-above-zero-gravity-facility-circa-1966</link>
+ <description>This tunnel view looking up from level 5 is of the Zero Gravity Facility at Lewis Research Center, now known as the Glenn Research Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/16188673307_e2f8cd50ed_o.jpeg" length="5577822" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/a-view-from-above-zero-gravity-facility-circa-1966</guid>
+ <pubDate>Mon, 18 Jul 2022 09:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>SpaceX Dragon Heads to Station on 25th Resupply Mission</title>
+ <link>http://www.nasa.gov/image-feature/spacex-dragon-heads-to-station-on-25th-resupply-mission</link>
+ <description>A SpaceX Falcon 9 soars upward after lifting off from Launch Complex 39A at NASA’s Kennedy Space Center in Florida on July 14, 2022.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ksc-20220714-ph-kls01_0017_orig.jpeg" length="15108752" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/spacex-dragon-heads-to-station-on-25th-resupply-mission</guid>
+ <pubDate>Fri, 15 Jul 2022 09:28 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>James Webb Space Telescope Senior Project Scientist John Mather</title>
+ <link>http://www.nasa.gov/image-feature/james-webb-space-telescope-senior-project-scientist-john-mather</link>
+ <description>Senior Project Scientist John Mather speaks with the media after the release of the first images from the James Webb Space Telescope .</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/52210743097_6e6fabdb5b_o.jpeg" length="8509894" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/james-webb-space-telescope-senior-project-scientist-john-mather</guid>
+ <pubDate>Wed, 13 Jul 2022 08:55 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>President Biden and the World Preview Webb Telescope&#039;s First Image</title>
+ <link>http://www.nasa.gov/image-feature/president-biden-and-the-world-preview-webb-telescopes-first-image</link>
+ <description>NASA Administrator Bill Nelson describes the first full-color image from NASA’s James Webb Space Telescope.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/52210250181_4c1bda0b9f_o.jpeg" length="1477903" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/president-biden-and-the-world-preview-webb-telescopes-first-image</guid>
+ <pubDate>Tue, 12 Jul 2022 08:10 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Behold: The Carina Nebula&#039;s &#039;Mystic Mountain&#039;</title>
+ <link>http://www.nasa.gov/image-feature/behold-the-carina-nebulas-mystic-mountain</link>
+ <description>Within the tempestuous Carina Nebula lies “Mystic Mountain.” This three-light-year-tall cosmic pinnacle, imaged by Hubble in 2010.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/c92-2.jpg" length="836186" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/behold-the-carina-nebulas-mystic-mountain</guid>
+ <pubDate>Mon, 11 Jul 2022 08:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Spots a Merging Galactic Gem</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2022/hubble-spots-a-merging-galactic-gem</link>
+ <description>This NASA/ESA Hubble Space Telescope observation has captured the galaxy CGCG 396-2, an unusual multi-armed galaxy merger which lies around 520 million light-years from Earth in the constellation Orion.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_cgcg396-2_potw2227a.jpg" length="1451311" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2022/hubble-spots-a-merging-galactic-gem</guid>
+ <pubDate>Sat, 09 Jul 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Countdown to the Webb Telescope&#039;s First Images</title>
+ <link>http://www.nasa.gov/image-feature/countdown-to-the-webb-telescopes-first-images</link>
+ <description>Webb’s Fine Guidance Sensor Provides a Serendipitous Preview</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/52196657049_03ed807621_o.jpeg" length="5217000" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/countdown-to-the-webb-telescopes-first-images</guid>
+ <pubDate>Thu, 07 Jul 2022 09:22 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Become a Jovian Vortex Hunter!</title>
+ <link>http://www.nasa.gov/image-feature/become-a-jovian-vortex-hunter</link>
+ <description>NASA citizen science project, Jovian Vortex Hunter, seeks your help spotting vortices – spiral wind patterns – and other on Jupiter.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia23440-1600.jpg" length="467092" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/become-a-jovian-vortex-hunter</guid>
+ <pubDate>Wed, 06 Jul 2022 08:42 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Orbital Sunset Over Brazil</title>
+ <link>http://www.nasa.gov/image-feature/orbital-sunset-over-brazil</link>
+ <description>The last rays of an orbital sunset burst through Earth&#039;s horizon as the International Space Station flew 258 miles above Brazil.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss067e124176.jpg" length="475469" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/orbital-sunset-over-brazil</guid>
+ <pubDate>Tue, 05 Jul 2022 08:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Making a Picture-Perfect Landing</title>
+ <link>http://www.nasa.gov/image-feature/making-a-picture-perfect-landing</link>
+ <description>An adult osprey, carrying a fish in its talons, prepares to land in its nest atop a speaker platform in the parking lot at Kennedy Space Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/osprey-vab_0.jpg" length="907893" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/making-a-picture-perfect-landing</guid>
+ <pubDate>Fri, 01 Jul 2022 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>OMG: The Beauty of Ice</title>
+ <link>http://www.nasa.gov/image-feature/omg-the-beauty-of-ice</link>
+ <description>Most of Greenland&#039;s glaciers that empty into the ocean are at greater risk of rapid ice loss than previously understood.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia24983.jpeg" length="1212586" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/omg-the-beauty-of-ice</guid>
+ <pubDate>Thu, 30 Jun 2022 08:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Turquoise Plumes in the Large Magellanic Cloud</title>
+ <link>http://www.nasa.gov/image-feature/turquoise-plumes-in-the-large-magellanic-cloud</link>
+ <description>Brightly glowing plumes of the Large Magellanic Cloud appear almost like an ocean current.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw1441a.jpg" length="1159070" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/turquoise-plumes-in-the-large-magellanic-cloud</guid>
+ <pubDate>Wed, 29 Jun 2022 08:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>CAPSTONE Launches for Lunar Orbit</title>
+ <link>http://www.nasa.gov/image-feature/capstone-launches-for-lunar-orbit</link>
+ <description>The CAPSTONE mission launched at 5:55 a.m. EDT (09:55 UTC) on Rocket Lab’s Electron rocket from New Zealand.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/52179773875_6ed0bab2c3_o.jpeg" length="4094428" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/capstone-launches-for-lunar-orbit</guid>
+ <pubDate>Tue, 28 Jun 2022 08:32 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Public Affairs Specialist Tyrone McCoy</title>
+ <link>http://www.nasa.gov/faces-of-nasa/tyrone-mccoy</link>
+ <description>&quot;A piece of my story that I think needs to get told is that broken crayons still color.&quot; – Tyrone McCoy, Public Affairs Specialist, NASA Headquarters</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nhq202206140001.jpg" length="12834515" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/faces-of-nasa/tyrone-mccoy</guid>
+ <pubDate>Mon, 27 Jun 2022 03:55 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>CAPSTONE Slated for Launch Into Lunar Orbit</title>
+ <link>http://www.nasa.gov/image-feature/capstone-slated-for-launch-into-lunar-orbit</link>
+ <description>CAPSTONE, the pathfinder for NASA’s lunar outpost, will test an orbit around the Moon that has never been flown before.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/capstone_image.jpg" length="7975757" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/capstone-slated-for-launch-into-lunar-orbit</guid>
+ <pubDate>Fri, 24 Jun 2022 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Mirrors Aligned: Webb Telescope’s First Full-Color Images Due in July</title>
+ <link>http://www.nasa.gov/image-feature/mirrors-aligned-webb-telescope-s-first-full-color-images-due-in-july</link>
+ <description>We&#039;re counting down to the release of the Webb Telescope’s first full-color images!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/51942282534_19d5470826_o_0.jpeg" length="283673" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/mirrors-aligned-webb-telescope-s-first-full-color-images-due-in-july</guid>
+ <pubDate>Thu, 23 Jun 2022 06:53 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>A Sea of Stars Like Sequins</title>
+ <link>http://www.nasa.gov/image-feature/a-sea-of-stars-like-sequins</link>
+ <description>Near the center of the Milky Way lies this star-studded globular cluster, called Terzan 9 in the constellation Sagittarius.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_terzan_9_potw2224a.jpg" length="3414883" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/a-sea-of-stars-like-sequins</guid>
+ <pubDate>Wed, 22 Jun 2022 08:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Viewing the Color of Space</title>
+ <link>http://www.nasa.gov/image-feature/viewing-the-color-of-space</link>
+ <description>Attendees try on Oculus headsets and experience the space station using virtual reality prior to the screening of “The Color of Space”.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/52156600646_b659692869_o.jpeg" length="2735859" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/viewing-the-color-of-space</guid>
+ <pubDate>Tue, 21 Jun 2022 08:46 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Galveston and the Beginning of Juneteenth</title>
+ <link>http://www.nasa.gov/image-feature/galveston-and-the-beginning-of-juneteenth</link>
+ <description>General Order No. 3 by Union troops on June 19, 1865, marked the official end of slavery in Texas and the U.S.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss060e054125.jpg" length="2456716" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/galveston-and-the-beginning-of-juneteenth</guid>
+ <pubDate>Fri, 17 Jun 2022 07:57 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>The Progress Pride Flag Flies at NASA Headquarters</title>
+ <link>http://www.nasa.gov/image-feature/the-progress-pride-flag-flies-at-nasa-headquarters</link>
+ <description>The Progress Pride flag is seen flying at the Mary W. Jackson NASA Headquarters Building.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/52148226607_4b386cc977_o.jpeg" length="5396968" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-progress-pride-flag-flies-at-nasa-headquarters</guid>
+ <pubDate>Thu, 16 Jun 2022 06:55 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>The Sparkle of Distant Galaxies</title>
+ <link>http://www.nasa.gov/image-feature/the-sparkle-of-distant-galaxies</link>
+ <description>The brilliant cascade of stars through the middle of this image is the galaxy ESO 318-13.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw1249a.jpeg" length="489336" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-sparkle-of-distant-galaxies</guid>
+ <pubDate>Wed, 15 Jun 2022 08:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>It&#039;s Flag Day</title>
+ <link>http://www.nasa.gov/image-feature/its-flag-day</link>
+ <description>Flag Day is celebrated on June 14 each year and commemorates the adoption of the flag of the United States on June 14, 1777.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/apollo_11_flag_on_the_moon_w_aldrin_as11-40-5874.jpg" length="2252865" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/its-flag-day</guid>
+ <pubDate>Tue, 14 Jun 2022 09:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>JAXA Astronaut Akihiko Hoshide Speaks With Students</title>
+ <link>http://www.nasa.gov/image-feature/jaxa-astronaut-akihiko-hoshide-speaks-with-students</link>
+ <description>JAXA astronaut Akihiko Hoshide speaks with students during a visit to Arlington Science Focus Elementary School</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/52136727833_e4c62ae77c_o.jpeg" length="13505616" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jaxa-astronaut-akihiko-hoshide-speaks-with-students</guid>
+ <pubDate>Mon, 13 Jun 2022 07:19 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Investigates an Enigmatic Star Cluster</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2022/hubble-investigates-an-enigmatic-star-cluster</link>
+ <description>Unlike most globular clusters, Ruprecht 106 may be what astronomers call a single population globular cluster.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_ruprecht106_potw2223a.jpg" length="4982882" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2022/hubble-investigates-an-enigmatic-star-cluster</guid>
+ <pubDate>Fri, 10 Jun 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>When Galaxy Clusters Collide</title>
+ <link>http://www.nasa.gov/image-feature/when-galaxy-clusters-collide</link>
+ <description>Galaxy clusters contain hundreds of galaxies and huge amounts of hot gas and dark matter.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/a2146.jpeg" length="1434092" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/when-galaxy-clusters-collide</guid>
+ <pubDate>Thu, 09 Jun 2022 08:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Pacific Ocean From the Space Station</title>
+ <link>http://www.nasa.gov/image-feature/pacific-ocean-from-the-space-station</link>
+ <description>The International Space Station orbits into a dawn 261 miles above a cloudy Pacific Ocean in this image from April 2022.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss066e161043.jpeg" length="1440159" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/pacific-ocean-from-the-space-station</guid>
+ <pubDate>Wed, 08 Jun 2022 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Dickinson Crater on Venus</title>
+ <link>http://www.nasa.gov/image-feature/dickinson-crater-on-venus</link>
+ <description>This November 1996 image from Magellan shows Dickinson, an impact crater in the northeastern Atalanta Region of Venus.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia00479.jpeg" length="1880761" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/dickinson-crater-on-venus</guid>
+ <pubDate>Tue, 07 Jun 2022 09:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Artemis I Moon Rocket Heads Back to Launch Pad for Testing</title>
+ <link>http://www.nasa.gov/image-feature/artemis-i-moon-rocket-heads-back-to-launch-pad-for-testing</link>
+ <description>The rocket is scheduled to launch later in 2022.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/sls_rollout_with_vab_20220606.jpeg" length="1746062" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/artemis-i-moon-rocket-heads-back-to-launch-pad-for-testing</guid>
+ <pubDate>Mon, 06 Jun 2022 09:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Apollo 1 Monument Dedication</title>
+ <link>http://www.nasa.gov/image-feature/apollo-1-monument-dedication</link>
+ <description>The Apollo 1 monument at Arlington National Cemetery was dedicated on Thursday, June 2, 2022, in Arlington, Va.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/52117105818_7659d78509_o.jpeg" length="23020039" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/apollo-1-monument-dedication</guid>
+ <pubDate>Fri, 03 Jun 2022 07:09 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Huge Rings Around a Black Hole</title>
+ <link>http://www.nasa.gov/image-feature/huge-rings-around-a-black-hole</link>
+ <description>This image features a spectacular set of rings around a black hole.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/v404cyg_lg.jpeg" length="6922941" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/huge-rings-around-a-black-hole</guid>
+ <pubDate>Thu, 02 Jun 2022 09:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hurricane Season 2022 Begins</title>
+ <link>http://www.nasa.gov/image-feature/hurricane-season-2022-begins</link>
+ <description>Hurricanes are the most powerful weather event on Earth. The 2022 Atlantic hurricane season extends from June 1 to November 30.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss065e432549.jpg" length="1537905" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/hurricane-season-2022-begins</guid>
+ <pubDate>Wed, 01 Jun 2022 09:03 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Captures Pair of Star-Forming Spirals</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2022/hubble-captures-pair-of-star-forming-spirals</link>
+ <description>This new image from NASA’s Hubble Space Telescope looks at two spiral galaxies, collectively known as Arp 303.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_ic563_564_7_flat_final.jpg" length="476811" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2022/hubble-captures-pair-of-star-forming-spirals</guid>
+ <pubDate>Fri, 27 May 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Boeing Orbital Flight Test-2 Landing</title>
+ <link>http://www.nasa.gov/image-feature/boeing-orbital-flight-test-2-landing</link>
+ <description>Boeing’s CST-100 Starliner spacecraft opens its main parachutes as it lands at White Sands Missile Range’s Space Harbor, Wednesday, May 25, 2022.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/52099923324_5d3bca3159_o.jpeg" length="1104208" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/boeing-orbital-flight-test-2-landing</guid>
+ <pubDate>Thu, 26 May 2022 08:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Ultracold Bubbles (in Pink)</title>
+ <link>http://www.nasa.gov/image-feature/ultracold-bubbles-in-pink</link>
+ <description>Since the Apollo program, astronauts have documented (and contended with) how liquids behave differently in microgravity than they do on Earth.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/1-cal-main-image1041.jpg" length="128583" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/ultracold-bubbles-in-pink</guid>
+ <pubDate>Wed, 25 May 2022 11:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>InSight&#039;s Final Selfie</title>
+ <link>http://www.nasa.gov/image-feature/insights-final-selfie</link>
+ <description>NASA&#039;s InSight Mars lander took this final selfie on April 24, 2022, the 1,211th Martian day, or sol, of the mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/jpegpia25287.jpeg" length="607827" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/insights-final-selfie</guid>
+ <pubDate>Tue, 24 May 2022 06:11 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Mysteries of the Needle&#039;s Eye, a Dwarf Spiral Galaxy</title>
+ <link>http://www.nasa.gov/image-feature/mysteries-of-the-needles-eye-a-dwarf-spiral-galaxy</link>
+ <description>This Hubble Space Telescope image shows a section of the spiral galaxy nicknamed the Needle’s Eye.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_ngc247_acs_1flat_2_final_0.jpg" length="5060087" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/mysteries-of-the-needles-eye-a-dwarf-spiral-galaxy</guid>
+ <pubDate>Mon, 23 May 2022 09:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Starliner Launches to Space Station</title>
+ <link>http://www.nasa.gov/image-feature/starliner-launches-to-space-station</link>
+ <description>Boeing’s CST-100 Starliner spacecraft launched from Space Launch Complex 41, Thursday, May 19, 2022.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/52085635771_627c94be0e_o.jpeg" length="4867617" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/starliner-launches-to-space-station</guid>
+ <pubDate>Fri, 20 May 2022 08:37 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Boeing’s Starliner on the Pad</title>
+ <link>http://www.nasa.gov/image-feature/boeing-s-starliner-on-the-pad</link>
+ <description>A United Launch Alliance Atlas V rocket with Boeing’s CST-100 Starliner spacecraft aboard is illuminated by spotlights on the launch pad.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nhq202205180044_0.jpg" length="7809991" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/boeing-s-starliner-on-the-pad</guid>
+ <pubDate>Thu, 19 May 2022 08:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Peers Through Giant Elliptical’s Layers</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2022/hubble-peers-through-giant-ellipticals-layers</link>
+ <description>This new NASA Hubble Space Telescope image captures the central region of the gigantic elliptical galaxy NGC 474.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_ngc474_1_gapfilled_flat_final.jpg" length="5077517" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2022/hubble-peers-through-giant-ellipticals-layers</guid>
+ <pubDate>Wed, 18 May 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Kartik Sheth: Advancing Science and Equity</title>
+ <link>http://www.nasa.gov/image-feature/kartik-sheth-advancing-science-and-equity</link>
+ <description>Dr. Kartik Sheth&#039;s career spans academia, non-profits, and government.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/img_9212.jpeg" length="1460328" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/kartik-sheth-advancing-science-and-equity</guid>
+ <pubDate>Tue, 17 May 2022 07:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Introducing Quesst: Speed Never Sounded So Quiet</title>
+ <link>http://www.nasa.gov/image-feature/introducing-quesst-speed-never-sounded-so-quiet</link>
+ <description>Quesst is what NASA is calling its mission to enable supersonic air travel over land.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/quesst_mark_reveal_hangar_iod_middle_grey2.jpeg" length="189995" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/introducing-quesst-speed-never-sounded-so-quiet</guid>
+ <pubDate>Mon, 16 May 2022 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+</channel>
+</rss>

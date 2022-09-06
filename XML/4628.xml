@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Above is XML declaration-->
+<!--Root node/element(tag)-->
+<contact-info>
+    <contact>
+        <name>Angus Bodle</name>
+        <email>bodlea1@cloudfolio.co.nz</email>
+        <address>
+            <company>Andy's Pizzeria</company>
+            <street>Hill of Difficulty</street>
+            <city>Adamstown</city>
+            <postcode>PCRN 1ZZ</postcode>
+        </address>
+    </contact>
+</contact-info>
